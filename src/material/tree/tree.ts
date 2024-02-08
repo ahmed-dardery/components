@@ -11,7 +11,7 @@ import {ChangeDetectionStrategy, Component, ViewChild, ViewEncapsulation} from '
 import {MatTreeNodeOutlet} from './outlet';
 
 /**
- * Wrapper for the CdkTable with Material design styles.
+ * Wrapper for the CdkTree with Material design styles.
  */
 @Component({
   selector: 'mat-tree',
